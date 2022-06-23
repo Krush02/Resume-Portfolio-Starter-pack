@@ -1,87 +1,110 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Jason Lopez",
+    "occupation": "Startup Consultant",
+    "description": "Addicted to the grind",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "I'm hooked on startups. Passionate about sales, technology, and hospitality/travel. I love building things - companies, teams, processes, websites, apps, pretty much anything out of wood. I enjoy learning new skills and honing existing ones. Personal growth is something I strive for daily, trying my best to live by the 1% rule where you aim to improve/grow just 1% every day. My wife says I'm addicted to self-help 😅. I mainly create content around sales, sales operations, go to market strategy, leadership, hospitality, and tourism. Hobbies include traveling, woodworking, chess, golf, gardening, and reef-keeping (I keep several saltwater aquariums) to name a few.",
+    "contactmessage": "Get in touch with me for a free consultation!",
+    "email": "jason@jlstartupconsulting.com",
+    "phone": "+1 (305) 877-8965",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "PO BOX #12345",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33155"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.jlstartupconsulting.com",
+    "resumedownload": "https://www.jlstartupconsulting.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/jasonplopez",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "facebook",
+        "url": "https://www.linkedin.com/in/jasonplopez",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.linkedin.com/in/jasonplopez",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Krush02",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Areas of Expertise",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "TOP One Percenter Academy",
+        "degree": "TOP Graduate",
+        "graduated": "April 2022",
+        "description": "Graduated with Honors"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "JL Startup Consulting",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "Sep 2021 - Present",
+        "description": "Helping founders navigate startup life. 9 out of 10 startups fail within 5 years. Reasons may include lack of runway/capital, product-market fit, competition, lack of research, ineffective marketing, the team, the business model, a million other reasons or any combination of them. With every new client, my goal is to empower them to take ownership over their systems and processes so that they walk away not only with results, but with skills and a plan to supercharge their next phase of growth."
+      },
+      {
+        "company": "Jurny, Inc.",
+        "title": "Director of Sales",
+        "years": "Oct 2021 - Present",
+        "description": "$0 to $2m ARR in 4 months. Hospitality Tech company empowering short-term rental hosts to scale quickly and 'WOW' guests. Led initiatives developing and/or revamping sales strategy, go-to-market strategy, competitor analysis, lead generation, demand generation, messaging & scripting, hiring/onboarding/training, compensation planning, sales operations, insights, forecasting, and fund raising."
+      },
+      {
+        "company": "JCH Travel Group",
+        "title": "C0-Founder and CRO",
+        "years": "Aug 2013 - Present",
+        "description": "Boutique travel agency specialized in corporate travel, groups, and honeymoons. Over $1m in sales first year in business. Led strategic initiatives around B2B client aquisition and retention, marketing, forecasting, and revenue operations. "
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Sales Strategy (inbound & outbound)",
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Go to Market Strategy",
+        "level": "100%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Sales Operations",
+        "level": "98%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
+        "name": "Analytics / Reporting / Dashboards",
         "level": "95%"
+      },
+      {
+        "name": "Compensation Plans",
+        "level": "90%"
+      },
+      {
+        "name": "Sales Enablement",
+        "level": "92%"
+      },
+      {
+        "name": "Recruiting, Onboarding, & Training",
+        "level": "83%"
+      },
+      {
+        "name": "Technology",
+        "level": "88%"
+      },
+      {
+        "name": "Revenue Operations",
+        "level": "82%"
       }
     ]
   },
